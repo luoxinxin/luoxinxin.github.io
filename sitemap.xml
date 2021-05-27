@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xinsilinwang.com/music/index.html</loc>
+    
+    <lastmod>2021-05-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xinsilinwang.com/movies/index.html</loc>
+    
+    <lastmod>2021-05-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xinsilinwang.com/2021/05/23/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-05-27</lastmod>
@@ -31,20 +45,6 @@
   
   <url>
     <loc>http://xinsilinwang.com/tags/index.html</loc>
-    
-    <lastmod>2021-05-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xinsilinwang.com/music/index.html</loc>
-    
-    <lastmod>2021-05-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xinsilinwang.com/movies/index.html</loc>
     
     <lastmod>2021-05-26</lastmod>
     
